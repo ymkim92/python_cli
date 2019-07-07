@@ -23,7 +23,7 @@ class App(cmd2.Cmd):
         self.run_local_command(command)
 
     def do_ssh_command(self, arg):
-        folder = '/home/ykim/Dropbox/dev/python/cmd2/examples/print/'
+        folder = '/home/ykim/devel/python/cmd2/examples/print/'
         command = 'print.sh'
         self.connect_ssh(host_address, host_user)
         self.run_ssh_command(folder+command)

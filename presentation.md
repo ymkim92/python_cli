@@ -5,7 +5,9 @@ highlightTheme: "darkula"
 slideNumber: true
 ---
 
-# Build CLI with cmd2
+# <code>Build CLIs with cmd2</code>
+
+https://github.com/ymkim92/python_cli
 
 Youngmin Kim
 
@@ -18,10 +20,9 @@ Youngmin Kim
 * Interact with computer entirely through your terminal by commands
 
 * CLI types
-  - (O) Command-line utilities (CLU)
-  - (O) **Interactive Command Line Interface**
+  - Command-line utilities (CLU)
+  - **Interactive Command Line Interface**
 
-* (X) Text User Interface (TUI)
 
 --
 
