@@ -15,6 +15,16 @@ Youngmin Kim
 
 ---
 
+## Contents
+
+- What is CLI?
+- What is advantage in CLI comparing with other application?
+- CLI with cmd
+- CLI with cmd2
+- Case Study
+
+---
+
 ## What is Command Line Interface (CLI) application
 
 * Interact with computer entirely through your terminal by commands
